@@ -1,3 +1,7 @@
+7_lt_ccw_100rpm_in.mp4 에 대한 시뮬레이션 실행
+
+https://youtu.be/VHFRFAoNa3Q
+
 pub_7.cpp 설명
 
 <img width="621" height="85" alt="image" src="https://github.com/user-attachments/assets/676516b5-4c92-4cf3-a454-98b855af188b" />
