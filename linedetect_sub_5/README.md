@@ -52,3 +52,4 @@ main 함수
 rclcpp::init(argc, argv); = ROS2 초기화
 rclcpp::spin(std::make_shared<LineDetector>()); = LineDetector 노드 실행 (콜백이 계속 동작하도록 spin)
 rclcpp::shutdown(); = 종료 시 ROS2 해제
+
