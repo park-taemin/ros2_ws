@@ -1,1 +1,14 @@
-https://github.com/park-taemin/ros2_ws/blob/75709a3f5cabfdfda715200dd8979e130fd6ed4f/linedetect_pub_7/pub_7.cpp#L1C1-L4C30
+pub_7.cpp 설명
+
+<img width="621" height="85" alt="image" src="https://github.com/user-attachments/assets/676516b5-4c92-4cf3-a454-98b855af188b" />
+
+생성자
+
+<img width="744" height="351" alt="image" src="https://github.com/user-attachments/assets/c4bbdd01-98ff-4051-ac92-974303d7a93e" />
+
+노드 이름은 "video_pub_7". 퍼블리시 토픽 이름: image_raw_7, 큐 사이즈: 10 타이머가 불릴 때마다 timer_callback() 실행\
+
+<img width="713" height="388" alt="image" src="https://github.com/user-attachments/assets/2818b80b-1df1-4c12-b0fc-e0352a9e89fb" />
+
+timer_callback(): 프레임 읽어서 publish, 영상이 끝났다면 종료
+
