@@ -4,7 +4,8 @@ pub_7.cpp 설명
 
 생성자
 
-<img width="744" height="351" alt="image" src="https://github.com/user-attachments/assets/c4bbdd01-98ff-4051-ac92-974303d7a93e" />
+<img width="743" height="352" alt="image" src="https://github.com/user-attachments/assets/cdd7b823-b146-4088-bb3e-733e8b8c9174" />
+
 
 노드 이름은 "video_pub_7". 퍼블리시 토픽 이름: image_raw_7, 큐 사이즈: 10 타이머가 불릴 때마다 timer_callback() 실행\
 
